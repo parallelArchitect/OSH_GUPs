@@ -1,0 +1,15 @@
+# Compiled binaries
+cpu_gups
+cuda_gups
+managed_gups
+
+# Runtime results (JSON logs from individual runs)
+results/
+
+# Object files / build artifacts
+*.o
+*.out
+
+# Editor/OS artifacts
+.DS_Store
+*.swp
